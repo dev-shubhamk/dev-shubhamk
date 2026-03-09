@@ -42,15 +42,6 @@
 
 ---
 
-### 🔹 GitHub Analytics & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-shubhamk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shubhamk&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🔹 Connect With Me
 
 <p align="left">
